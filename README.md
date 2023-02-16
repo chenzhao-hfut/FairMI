@@ -8,7 +8,7 @@ which is optimized by the two-fold MI based objective.
 
 
 
->  **Note**:  Due to the limitations of github's file transfer, the complete training parameters are published in https://drive.google.com/drive/folders/1Xe3FSSlyYCfCbJvt0baLjILXdwhHZCAw?usp=sharing
+>  **Note**:  Due to the limitations of github's file transfer, the complete training parameters are published in https://drive.google.com/drive/folders/14A4SqcPVFxBpFdX7TAL1BP_oShwl3kPK?usp=sharing
 
 
 
