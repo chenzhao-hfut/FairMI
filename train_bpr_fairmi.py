@@ -149,7 +149,7 @@ def train_unify_mi(sens_enc, inter_enc, club, dataset, u_sens,
             
             if best_perf < test_res['ndcg@10']:
                 best_perf = test_res['ndcg@10']
-                torch.save(model, args.param_path)
+                torch.save(inter_enc, args.param_path)
                 print('save successful')
 
 
